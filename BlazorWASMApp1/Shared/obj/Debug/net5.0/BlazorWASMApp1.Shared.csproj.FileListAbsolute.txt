@@ -1,0 +1,12 @@
+C:\Users\mohds\projek_baru\BlazorWASMApp1\Shared\bin\Debug\net5.0\BlazorWASMApp1.Shared.deps.json
+C:\Users\mohds\projek_baru\BlazorWASMApp1\Shared\bin\Debug\net5.0\BlazorWASMApp1.Shared.dll
+C:\Users\mohds\projek_baru\BlazorWASMApp1\Shared\bin\Debug\net5.0\ref\BlazorWASMApp1.Shared.dll
+C:\Users\mohds\projek_baru\BlazorWASMApp1\Shared\bin\Debug\net5.0\BlazorWASMApp1.Shared.pdb
+C:\Users\mohds\projek_baru\BlazorWASMApp1\Shared\obj\Debug\net5.0\BlazorWASMApp1.Shared.csproj.AssemblyReference.cache
+C:\Users\mohds\projek_baru\BlazorWASMApp1\Shared\obj\Debug\net5.0\BlazorWASMApp1.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohds\projek_baru\BlazorWASMApp1\Shared\obj\Debug\net5.0\BlazorWASMApp1.Shared.AssemblyInfoInputs.cache
+C:\Users\mohds\projek_baru\BlazorWASMApp1\Shared\obj\Debug\net5.0\BlazorWASMApp1.Shared.AssemblyInfo.cs
+C:\Users\mohds\projek_baru\BlazorWASMApp1\Shared\obj\Debug\net5.0\BlazorWASMApp1.Shared.csproj.CoreCompileInputs.cache
+C:\Users\mohds\projek_baru\BlazorWASMApp1\Shared\obj\Debug\net5.0\BlazorWASMApp1.Shared.dll
+C:\Users\mohds\projek_baru\BlazorWASMApp1\Shared\obj\Debug\net5.0\ref\BlazorWASMApp1.Shared.dll
+C:\Users\mohds\projek_baru\BlazorWASMApp1\Shared\obj\Debug\net5.0\BlazorWASMApp1.Shared.pdb
