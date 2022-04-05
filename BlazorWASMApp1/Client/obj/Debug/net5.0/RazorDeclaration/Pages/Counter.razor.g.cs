@@ -97,7 +97,7 @@ using BlazorWASMApp1.Client.Shared;
 
     private void IncrementCount()
     {
-        currentCount++;
+        currentCount = currentCount + 2;
     }
 
 #line default
